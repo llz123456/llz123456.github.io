@@ -1,0 +1,32 @@
+*{
+	margin :0;
+	padding :0;
+}
+h1{
+	color: red;
+	font-size: 30px;
+}
+li{
+	color :blue;
+	font-size: 20px;
+
+}
+.con{
+	width: 249px;
+	height: 200px;
+	background: pink;
+	color:blue;
+	font-size: 40px;
+	text-align: center;
+	line-height: 200px;
+	margin: 20px;
+	border: 2px #000 solid;
+	padding: 10px;
+	box-sizing:border-box;
+}
+.son{
+	width:50px;
+	height:50px;
+	background: yellow;
+	margin:0 auto;
+}
